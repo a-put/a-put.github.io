@@ -92,7 +92,7 @@ theme_mode: dark
 #cdn:
 
 # avatar on sidebar (supports local or CORS resources)
-avatar: /assets/img/corey_goldberg.jpg
+avatar: /assets/img/photo.jpg
 
 # URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # it can be overridden by a customized `page.image` in front matter.

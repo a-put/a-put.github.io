@@ -4,6 +4,7 @@ description: Blog by Anton Putintsev. Bookmark this to keep an eye on my project
 avatar: /assets/img/photo.jpg
 lang: en
 
+
 # protocol & hostname for your site (it does not end with a '/')
 url: https://a-put.github.io
 

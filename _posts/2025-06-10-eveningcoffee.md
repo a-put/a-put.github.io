@@ -9,4 +9,4 @@ This is my first blog post! Hope you enjoy it.
 Suuny evening's frosty whispering chills the hot coffee's breath.  
 
 ... which is shown in the screenshot below:
-![My helpful screenshot](/assets/img/photo.jpg)
+![My helpful screenshot](/assets/img/photos.jpg)

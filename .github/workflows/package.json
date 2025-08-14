@@ -1,0 +1,7 @@
+  // package.json (partial)
+    {
+      "name": "my-rn-app",
+      "version": "1.0.0",
+      "main": "index.js",
+      // ...
+    }
